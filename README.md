@@ -28,8 +28,8 @@ The player gains score by moving forward and performing clean landings on curved
 ---------------
 (Add your own screenshots later)
 
-<img src="https://github.com/Yadhu360/SnowRider/blob/0215679fc96ec10c38b1b264e3811d8ac0aa5d12/Assets/Screenshot%202025-11-14%20182426.png" width="200" height="400" />
-<img src="https://github.com/Yadhu360/SnowRider/blob/0215679fc96ec10c38b1b264e3811d8ac0aa5d12/Assets/Screenshot%202025-11-14%20182524.png" width="200" height="400" />
+<img src="https://github.com/Yadhu360/SnowRider/blob/0215679fc96ec10c38b1b264e3811d8ac0aa5d12/Assets/Screenshot%202025-11-14%20182426.png" width="200" height="400" /> <img src="https://github.com/Yadhu360/SnowRider/blob/0215679fc96ec10c38b1b264e3811d8ac0aa5d12/Assets/Screenshot%202025-11-14%20182524.png" width="200" height="400" />
+
 <img src="https://github.com/Yadhu360/SnowRider/blob/0215679fc96ec10c38b1b264e3811d8ac0aa5d12/Assets/Screenshot%202025-11-14%20182719.png" width="200" height="400" />
 <img src="https://github.com/Yadhu360/SnowRider/blob/0215679fc96ec10c38b1b264e3811d8ac0aa5d12/Assets/Screenshot%202025-11-14%20182545.png" width="200" height="400" />
 
