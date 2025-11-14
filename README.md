@@ -58,6 +58,37 @@ The player gains score by moving forward and performing clean landings on curved
 * Press Play and start sliding!
 -------------------------------
 
+⚠️ If the Project Shows “Not a Valid Unity Project”
+----------------------------------------------------
+
+When you download the ZIP from GitHub, the extracted folder may contain an extra parent folder with the same name.
+Because of this, Unity Hub might say:
+
+“This project is not valid.”
+
+If that happens, follow these steps:
+
+✅ How to Fix
+--------------
+Open the extracted ZIP folder.
+
+Inside it, look for a second folder with the same project name.
+
+Drag the inner folder (the one that contains Assets, ProjectSettings, Packages) to a location of your choice.
+
+Add that folder to Unity Hub.
+
+Your folder structure should look like this:
+
+ProjectName/
+ ├── Assets/
+ ├── Packages/
+ ├── ProjectSettings/
+ └── UserSettings/ (optional)
+
+
+If Unity recognizes these three folders, the project will open normally.
+-------------------------------------------------------------------------
 
 📌 Roadmap
 ---------------------
